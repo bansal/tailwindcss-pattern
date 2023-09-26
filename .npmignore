@@ -1,0 +1,5 @@
+dist
+*.html
+*.png
+node_modules
+.DS_Store
